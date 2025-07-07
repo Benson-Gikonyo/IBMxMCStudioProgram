@@ -1,0 +1,326 @@
+# IBM Technology Training Program - Student Project Repository
+
+<div align="center">
+  <img src="https://img.shields.io/badge/IBM-Cloud-blue?style=for-the-badge&logo=ibm" alt="IBM Cloud">
+  <img src="https://img.shields.io/badge/Watson-AI-red?style=for-the-badge&logo=ibm" alt="Watson AI">
+  <img src="https://img.shields.io/badge/Training-Program-green?style=for-the-badge" alt="Training Program">
+  <img src="https://img.shields.io/badge/Unified%20HR-MC%20Studio-purple?style=for-the-badge" alt="Partnership">
+</div>
+
+## 🚀 Program Overview
+
+**Duration**: 8 Weeks (May 5 - November 5, 2025)  
+**Partners**: Unified HR Consulting & MC Studio  
+**Focus**: IBM Advanced Technology Training & Certification  
+**Cohort Size**: 50 Participants  
+
+### 📋 Training Phases
+
+| Phase | Duration | Focus Area | Key Deliverables |
+|-------|----------|------------|------------------|
+| **Foundation** | Weeks 1-2 | IBM Ecosystem Mastery | Cloud Foundations, Solutions Portfolio |
+| **Specialization** | Weeks 3-6 | Watson Technical & Sales | 4 Watson Badges + Sales Certification |
+| **Deployment** | Weeks 7-8 | Real-World Application | TechZone & DSCE Portal Projects |
+
+## 🎯 Learning Objectives
+
+- **Master IBM Cloud Architecture** and deployment strategies
+- **Earn Watson AI Certifications** in Assistant, Discovery, ML, and Sales
+- **Build Production-Ready Solutions** using IBM technologies
+- **Develop Professional Portfolio** with real-world projects
+- **Achieve Industry Placement** with IBM partner companies
+
+## 📁 Repository Structure
+
+```
+ibm-training-program/
+├── README.md
+├── .gitignore
+├── docs/
+│   ├── program-overview.md
+│   ├── weekly-curriculum.md
+│   └── certification-guide.md
+├── students/
+│   ├── cohort-2025/
+│   │   ├── student-001-john-doe/
+│   │   ├── student-002-jane-smith/
+│   │   └── ...
+├── projects/
+│   ├── week-01-ibm-cloud-foundations/
+│   ├── week-02-solutions-portfolio/
+│   ├── week-03-watson-assistant/
+│   ├── week-04-watson-discovery/
+│   ├── week-05-watson-ml/
+│   ├── week-06-watson-sales/
+│   ├── week-07-techzone-deployment/
+│   └── week-08-dsce-portal/
+├── resources/
+│   ├── templates/
+│   ├── documentation/
+│   └── reference-materials/
+├── assessments/
+│   ├── weekly-challenges/
+│   ├── certification-prep/
+│   └── final-showcase/
+└── tools/
+    ├── scripts/
+    ├── utilities/
+    └── deployment-configs/
+```
+
+## 🏗️ Project Task Tracking
+
+### Week-by-Week Project Deliverables
+
+#### **Weeks 1-2: IBM Ecosystem Foundations**
+- [ ] **Project 1.1**: IBM Cloud Account Setup & Navigation
+- [ ] **Project 1.2**: Basic Infrastructure Deployment
+- [ ] **Project 1.3**: Solutions Portfolio Analysis
+- [ ] **Project 2.1**: Partner Program Integration
+- [ ] **Project 2.2**: Revenue Model Assessment
+
+#### **Weeks 3-6: Watson Specialization**
+- [ ] **Project 3.1**: Watson Assistant Chatbot Development
+- [ ] **Project 3.2**: Dialog Flow Implementation
+- [ ] **Project 4.1**: Watson Discovery Search Solution
+- [ ] **Project 4.2**: Document Processing Pipeline
+- [ ] **Project 5.1**: Watson ML Model Training
+- [ ] **Project 5.2**: AutoAI Implementation
+- [ ] **Project 6.1**: Sales Presentation Development
+- [ ] **Project 6.2**: Client Demo Preparation
+
+#### **Weeks 7-8: Deployment & Showcase**
+- [ ] **Project 7.1**: TechZone Environment Setup
+- [ ] **Project 7.2**: Solution Architecture Design
+- [ ] **Project 8.1**: DSCE Portal Customization
+- [ ] **Project 8.2**: Final Showcase Preparation
+
+## 👥 Student Submission Guidelines
+
+### 📂 Student Folder Structure
+Each student maintains their own folder with the following structure:
+
+```
+student-XXX-firstname-lastname/
+├── README.md (Personal profile & progress)
+├── certifications/
+│   ├── badges/
+│   └── certificates/
+├── projects/
+│   ├── week-01/
+│   ├── week-02/
+│   └── ...
+├── documentation/
+│   ├── learning-notes.md
+│   ├── project-reports.md
+│   └── reflection-logs.md
+└── portfolio/
+    ├── deployed-solutions/
+    ├── code-samples/
+    └── presentation-materials/
+```
+
+### 📋 Submission Requirements
+
+1. **Code Quality Standards**
+   - Clean, commented code
+   - Follow IBM coding conventions
+   - Include unit tests where applicable
+   - Document API endpoints and configurations
+
+2. **Documentation Requirements**
+   - Project README with setup instructions
+   - Architecture diagrams
+   - User guides and deployment notes
+   - Performance metrics and testing results
+
+3. **Submission Process**
+   - Create feature branch: `feature/studentXXX-weekYY-projectname`
+   - Submit pull request with detailed description
+   - Include demo video or screenshots
+   - Tag mentors for review: `@mentor-name`
+
+## 🛠️ Technical Requirements
+
+### **Development Environment**
+- **IDE**: Visual Studio Code with IBM extensions
+- **Cloud Access**: IBM Cloud account with $200 credits
+- **Version Control**: Git with GitHub integration
+- **Documentation**: Markdown for all project documentation
+
+### **Core Technologies**
+- **Cloud Platforms**: IBM Cloud, IBM Watson
+- **Programming Languages**: Python, JavaScript, Java
+- **Frameworks**: Node.js, Flask, React
+- **Databases**: IBM Db2, MongoDB, PostgreSQL
+- **DevOps**: Docker, Kubernetes, IBM Cloud Pak
+
+### **Certification Tracking**
+- **IBM Cloud Practitioner**: Target completion Week 2
+- **Watson Assistant Developer**: Target completion Week 3
+- **Watson Discovery Specialist**: Target completion Week 4
+- **Watson ML Practitioner**: Target completion Week 5
+- **Watson Solutions Consultant**: Target completion Week 6
+- **IBM TechZone Architect**: Target completion Week 7
+- **DSCE Implementation Specialist**: Target completion Week 8
+
+## 📊 Progress Tracking
+
+### **Student Dashboard**
+Track your progress using the following metrics:
+
+- **Completion Rate**: Projects completed vs. assigned
+- **Code Quality Score**: Based on peer and mentor reviews
+- **Certification Progress**: Badges earned and pending
+- **Participation Level**: Contribution to discussions and peer reviews
+- **Portfolio Development**: Quality and quantity of deployed solutions
+
+### **Weekly Milestones**
+- **Monday**: Project assignment and requirements review
+- **Tuesday-Thursday**: Development and implementation
+- **Friday**: Submission, peer review, and mentor feedback
+- **Weekend**: Documentation completion and portfolio updates
+
+## 🎓 Certification & Placement Pipeline
+
+### **Performance Evaluation**
+- **Technical Competency**: 40% - Based on project quality and complexity
+- **Professional Skills**: 30% - Communication, teamwork, and problem-solving
+- **Certification Achievement**: 20% - IBM badges and certificates earned
+- **Innovation & Creativity**: 10% - Original solutions and improvements
+
+### **Career Placement Opportunities**
+- **Cloud Solutions Architect**: 15+ positions available
+- **Watson AI Implementation Specialist**: 12+ positions available
+- **IBM Sales Solutions Consultant**: 10+ positions available
+- **DevOps Engineer**: 8+ positions available
+- **Data Scientist**: 5+ positions available
+
+## 🤝 Collaboration Guidelines
+
+### **Peer Learning**
+- **Code Reviews**: Mandatory for all submissions
+- **Study Groups**: Weekly sessions facilitated by mentors
+- **Knowledge Sharing**: Document learnings and best practices
+- **Project Collaboration**: Team projects in Weeks 4 and 7
+
+### **Mentor Interaction**
+- **Weekly Check-ins**: Scheduled 30-minute sessions
+- **Technical Support**: Available during lab hours
+- **Career Guidance**: Placement preparation and interview coaching
+- **Industry Networking**: Connections with IBM partners
+
+## 🔧 Getting Started
+
+### **Quick Setup**
+1. **Clone Repository**
+   ```bash
+   git clone https://github.com/unified-hr-mcstudio/ibm-training-program.git
+   cd ibm-training-program
+   ```
+
+2. **Create Student Branch**
+   ```bash
+   git checkout -b student-XXX-firstname-lastname
+   cd students/cohort-2025
+   mkdir student-XXX-firstname-lastname
+   cd student-XXX-firstname-lastname
+   ```
+
+3. **Setup Personal README**
+   ```bash
+   cp ../../../templates/student-readme-template.md README.md
+   # Edit README.md with your information
+   ```
+
+4. **Initial Commit**
+   ```bash
+   git add .
+   git commit -m "Initial student setup for [Your Name]"
+   git push origin student-XXX-firstname-lastname
+   ```
+
+### **Daily Workflow**
+1. **Pull Latest Changes**
+   ```bash
+   git pull origin main
+   ```
+
+2. **Create Feature Branch**
+   ```bash
+   git checkout -b feature/studentXXX-weekYY-projectname
+   ```
+
+3. **Work on Project**
+   - Code development
+   - Documentation
+   - Testing
+
+4. **Submit for Review**
+   ```bash
+   git add .
+   git commit -m "Week YY Project: [Project Name] - [Brief description]"
+   git push origin feature/studentXXX-weekYY-projectname
+   ```
+
+5. **Create Pull Request**
+   - Detailed description of changes
+   - Link to live demo (if applicable)
+   - Tag mentors for review
+
+## 📞 Support & Resources
+
+### **Technical Support**
+- **Email**: techsupport@unifiedhrc-mcstudio.com
+- **Slack**: #ibm-training-support
+- **Office Hours**: Tuesday & Thursday, 5:00 PM - 6:00 PM EAT
+- **Emergency Hotline**: +254 (0) 712 345 678
+
+### **Learning Resources**
+- **IBM Developer**: https://developer.ibm.com
+- **IBM Training**: https://www.ibm.com/training
+- **Watson Documentation**: https://cloud.ibm.com/docs/watson
+- **IBM Cloud Docs**: https://cloud.ibm.com/docs
+
+### **Community**
+- **LinkedIn Group**: IBM Training Program Kenya
+- **Discord Server**: [Invitation Link]
+- **WhatsApp Group**: [Invitation Link]
+- **Weekly Webinars**: Fridays at 3:00 PM EAT
+
+## 🏆 Success Stories
+
+> "The IBM training program transformed my career. Within 3 months of completion, I was deployed as a Cloud Solutions Architect with a leading fintech company." - **Previous Graduate**
+
+> "The hands-on approach and real-world projects prepared me for immediate impact in my role as a Watson AI specialist." - **Program Alumni**
+
+## 📈 Program Statistics
+
+- **Completion Rate**: 95% of students complete all 8 weeks
+- **Certification Success**: 87% earn all target IBM badges
+- **Placement Rate**: 92% of graduates placed within 3 months
+- **Salary Increase**: Average 150% increase in compensation
+- **Partner Satisfaction**: 4.8/5 rating from hiring companies
+
+## 🌟 Recognition
+
+This program is **officially recognized** by:
+- IBM East Africa
+- Kenya Association of Software Developers
+- ICT Authority of Kenya
+- Association of Computing Machinery (ACM) Kenya
+
+---
+
+<div align="center">
+  <p><strong>A Joint Initiative by Unified HR Consulting & MC Studio</strong></p>
+  <p>Powered by IBM Technology | Building the Future of Tech in East Africa</p>
+  
+  <a href="mailto:info@unifiedhrc-mcstudio.com">📧 Contact Us</a> | 
+  <a href="https://linkedin.com/company/unified-hr-consulting">🔗 LinkedIn</a> | 
+  <a href="https://twitter.com/UnifiedHRKE">🐦 Twitter</a>
+</div>
+
+---
+
+**© 2025 MC Studio. All rights reserved.**
