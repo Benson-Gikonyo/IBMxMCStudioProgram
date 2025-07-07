@@ -1,0 +1,442 @@
+# Complete GitHub Repository Structure
+
+## .gitignore
+```
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build outputs
+build/
+dist/
+target/
+*.jar
+*.war
+*.ear
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IBM Cloud credentials
+.bluemix/
+.cf/
+manifest.yml
+.cfignore
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Student personal information
+*/personal-info.md
+*/credentials.txt
+*/api-keys.txt
+```
+
+## docs/program-overview.md
+```markdown
+# IBM Technology Training Program - Complete Overview
+
+## Program Mission
+Transform 50 talented individuals into IBM-certified technology professionals ready for immediate deployment in the East African market.
+
+## Learning Outcomes
+By the end of this program, participants will:
+- Hold multiple IBM certifications
+- Have deployed real-world solutions
+- Possess a professional portfolio
+- Be connected with IBM partner companies
+- Understand enterprise technology implementation
+
+## Weekly Breakdown
+[Detailed weekly curriculum with objectives, activities, and assessments]
+
+## Assessment Criteria
+- Technical competency demonstrations
+- Project portfolio quality
+- Certification achievement
+- Professional skill development
+- Peer collaboration effectiveness
+```
+
+## docs/weekly-curriculum.md
+```markdown
+# Weekly Curriculum Details
+
+## Week 1: IBM Cloud Foundations
+**Objectives:**
+- Understand IBM Cloud architecture
+- Navigate IBM Cloud console
+- Deploy basic infrastructure
+
+**Projects:**
+- Cloud account setup and exploration
+- Basic VM deployment
+- Network configuration
+- Security group setup
+
+**Assessment:**
+- Practical deployment test
+- Cloud concepts quiz
+- Infrastructure design challenge
+
+[Similar structure for Weeks 2-8]
+```
+
+## docs/certification-guide.md
+```markdown
+# IBM Certification Guide
+
+## Available Certifications
+1. IBM Cloud Practitioner
+2. Watson Assistant Developer
+3. Watson Discovery Specialist
+4. Watson ML Practitioner
+5. Watson Solutions Consultant
+6. IBM TechZone Architect
+7. DSCE Implementation Specialist
+
+## Study Resources
+- Official IBM documentation
+- Practice tests
+- Hands-on labs
+- Mentor guidance sessions
+
+## Certification Timeline
+[Week-by-week certification schedule]
+```
+
+## templates/student-readme-template.md
+```markdown
+# Student Profile: [Your Name]
+
+## Personal Information
+- **Name**: [Your Full Name]
+- **Email**: [Your Email]
+- **LinkedIn**: [Your LinkedIn Profile]
+- **GitHub**: [Your GitHub Profile]
+- **Phone**: [Your Phone Number]
+
+## Background
+- **Education**: [Your Educational Background]
+- **Experience**: [Your Work Experience]
+- **Skills**: [Your Current Skills]
+- **Career Goals**: [Your Career Objectives]
+
+## Training Progress
+- **Start Date**: [Program Start Date]
+- **Current Week**: [Current Week Number]
+- **Completion Status**: [X]% Complete
+
+## Certifications Achieved
+- [ ] IBM Cloud Practitioner
+- [ ] Watson Assistant Developer
+- [ ] Watson Discovery Specialist
+- [ ] Watson ML Practitioner
+- [ ] Watson Solutions Consultant
+- [ ] IBM TechZone Architect
+- [ ] DSCE Implementation Specialist
+
+## Projects Portfolio
+### Week 1: IBM Cloud Foundations
+- **Project**: [Project Name]
+- **Status**: [Completed/In Progress/Not Started]
+- **Repository**: [Link to project folder]
+- **Demo**: [Link to live demo]
+- **Documentation**: [Link to project documentation]
+
+[Repeat for each week]
+
+## Learning Reflections
+### Week 1
+[Your learning reflections and key takeaways]
+
+### Week 2
+[Your learning reflections and key takeaways]
+
+[Continue for each week]
+
+## Career Placement Preferences
+- **Preferred Role**: [Your preferred job role]
+- **Industry Interest**: [Your industry preferences]
+- **Location Preference**: [Your location preferences]
+- **Salary Expectation**: [Your salary expectations]
+
+## Mentor Feedback
+### Technical Skills
+[Mentor feedback on technical progress]
+
+### Professional Development
+[Mentor feedback on professional skills]
+
+### Areas for Improvement
+[Mentor recommendations for improvement]
+
+## Contact Information
+- **Program Email**: [Your program email]
+- **Mentor**: [Your assigned mentor]
+- **Peer Study Group**: [Your study group members]
+```
+
+## templates/project-readme-template.md
+```markdown
+# Project Title: [Project Name]
+
+## Overview
+[Brief description of the project and its objectives]
+
+## Technologies Used
+- [List of technologies, frameworks, and tools]
+- [IBM services utilized]
+- [Programming languages]
+
+## Architecture
+[Description of the solution architecture]
+
+## Setup Instructions
+### Prerequisites
+- [List of prerequisites]
+- [Required software and accounts]
+
+### Installation
+1. Clone the repository
+2. Install dependencies
+3. Configure environment variables
+4. Run the application
+
+### Configuration
+[Configuration details and environment setup]
+
+## Usage
+[How to use the application with examples]
+
+## Features
+- [List of key features]
+- [Functionality description]
+
+## IBM Services Integration
+[Details of IBM services used and how they're integrated]
+
+## Testing
+[Testing approach and results]
+
+## Deployment
+[Deployment instructions and live demo links]
+
+## Documentation
+[Links to additional documentation]
+
+## Demo
+[Links to live demo, video demonstration, or screenshots]
+
+## Learnings
+[Key learnings and challenges faced during development]
+
+## Future Enhancements
+[Potential improvements and next steps]
+
+## Contact
+- **Developer**: [Your name]
+- **Email**: [Your email]
+- **LinkedIn**: [Your LinkedIn profile]
+```
+
+## projects/week-01-ibm-cloud-foundations/README.md
+```markdown
+# Week 1: IBM Cloud Foundations Projects
+
+## Project Overview
+This week focuses on establishing foundational knowledge of IBM Cloud services and basic infrastructure deployment.
+
+## Project Tasks
+1. **Cloud Account Setup** - Configure IBM Cloud account and explore console
+2. **Basic Infrastructure** - Deploy virtual machines and configure networking
+3. **Security Configuration** - Set up security groups and access controls
+4. **Monitoring Setup** - Configure basic monitoring and logging
+
+## Learning Objectives
+- Navigate IBM Cloud console effectively
+- Understand cloud service categories
+- Deploy and manage basic infrastructure
+- Implement security best practices
+
+## Deliverables
+- Functional cloud environment
+- Documentation of setup process
+- Screenshots of deployed resources
+- Reflection on learning experience
+
+## Assessment Criteria
+- Successful deployment of required resources
+- Quality of documentation
+- Understanding of cloud concepts
+- Problem-solving approach
+
+## Resources
+- IBM Cloud documentation
+- Video tutorials
+- Mentor guidance
+- Peer collaboration
+```
+
+## assessments/weekly-challenges/README.md
+```markdown
+# Weekly Assessment Challenges
+
+## Assessment Philosophy
+Weekly challenges are designed to evaluate both technical competency and practical application of learned concepts.
+
+## Challenge Types
+1. **Technical Implementations** - Hands-on coding and deployment
+2. **Problem-Solving Scenarios** - Real-world challenge solutions
+3. **Presentation Challenges** - Communication and demonstration skills
+4. **Peer Review Exercises** - Collaborative learning assessment
+
+## Grading Criteria
+- Technical accuracy (40%)
+- Code quality and documentation (30%)
+- Problem-solving approach (20%)
+- Presentation and communication (10%)
+
+## Weekly Challenge Schedule
+[List of weekly challenges with due dates and requirements]
+```
+
+## tools/scripts/setup-student-environment.sh
+```bash
+#!/bin/bash
+
+# IBM Training Program - Student Environment Setup Script
+# This script sets up the development environment for new students
+
+echo "Setting up IBM Training Program environment..."
+
+# Create student directory structure
+STUDENT_ID=$1
+STUDENT_NAME=$2
+
+if [ -z "$STUDENT_ID" ] || [ -z "$STUDENT_NAME" ]; then
+    echo "Usage: $0 <student-id> <student-name>"
+    exit 1
+fi
+
+STUDENT_DIR="students/cohort-2025/student-$STUDENT_ID-$STUDENT_NAME"
+
+# Create directory structure
+mkdir -p "$STUDENT_DIR"/{certifications/{badges,certificates},projects,documentation,portfolio/{deployed-solutions,code-samples,presentation-materials}}
+
+# Copy templates
+cp templates/student-readme-template.md "$STUDENT_DIR/README.md"
+cp templates/project-readme-template.md "$STUDENT_DIR/projects/"
+
+# Create weekly project directories
+for week in {01..08}; do
+    mkdir -p "$STUDENT_DIR/projects/week-$week"
+    cp templates/project-readme-template.md "$STUDENT_DIR/projects/week-$week/README.md"
+done
+
+# Initialize git tracking
+cd "$STUDENT_DIR"
+git init
+git add .
+git commit -m "Initial student setup for $STUDENT_NAME"
+
+echo "Student environment setup complete for $STUDENT_NAME (ID: $STUDENT_ID)"
+echo "Directory created: $STUDENT_DIR"
+```
+
+## CONTRIBUTING.md
+```markdown
+# Contributing to IBM Training Program Repository
+
+## How to Contribute
+
+### For Students
+1. Work only in your designated student folder
+2. Follow the project submission guidelines
+3. Create feature branches for each project
+4. Submit pull requests for mentor review
+5. Participate in peer code reviews
+
+### For Mentors
+1. Review student submissions promptly
+2. Provide constructive feedback
+3. Update curriculum materials as needed
+4. Maintain assessment criteria consistency
+
+### For Program Administrators
+1. Manage repository structure
+2. Update program documentation
+3. Coordinate with IBM partners
+4. Track overall program progress
+
+## Code Review Process
+1. All submissions require mentor approval
+2. Peer reviews are encouraged
+3. Feedback should be constructive and specific
+4. Code quality standards must be maintained
+
+## Documentation Standards
+- All projects must include README files
+- Code should be well-commented
+- Architecture diagrams required for complex solutions
+- User guides for deployed applications
+```
+
+## LICENSE
+```
+MIT License
+
+Copyright (c) 2025 MC Studio
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
